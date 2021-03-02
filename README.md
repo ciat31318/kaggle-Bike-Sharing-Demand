@@ -1,1 +1,1 @@
-# kaggle_-titanic
+# kaggle-titanic
